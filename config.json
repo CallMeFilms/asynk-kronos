@@ -1,0 +1,12 @@
+{
+  "prefix":"-",
+  "devices": {
+    "pi1": 2001,
+    "pi2": 2002,
+    "srv1": 8001
+  },
+  "listen": false,
+  "tos": "test",
+  "pp": "test",
+  "agree":"test"
+}
